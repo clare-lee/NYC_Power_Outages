@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Deeper Look into Summer Heat and Power Outages
 
 You can use the [editor on GitHub](https://github.com/clare-lee/NYC_Power_Outages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
