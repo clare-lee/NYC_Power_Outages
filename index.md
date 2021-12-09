@@ -1,4 +1,4 @@
-A Deeper Look into Summer Heat and Power Outages
+#A Deeper Look into Summer Heat and Power Outages
 ![Image](nycBlackout.jpeg)
 
 Overview: During the summer, black outs are a common occurence despite energy saving measures. The goal of this project is to look into public data of power outages in NYC and see if power outages really are the most common in the summer and to see if is getting better or worse.
