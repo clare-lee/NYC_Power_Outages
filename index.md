@@ -28,6 +28,7 @@ This graph show peaks and dips of these three variables generally align with eac
 
 
 Techniques:
+
 First import data using pandas
 ```
 ec_df = pd.read_csv("Electric_Consumption_And_Cost__2010_-_April_2020.csv")
